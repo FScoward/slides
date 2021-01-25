@@ -7,6 +7,7 @@ footer: "@fscoward"
 <!--
 _backgroundColor: #fef9ef
 _color: #373f51
+_$size: 16:9
 -->
 
 # Sample Slide
@@ -16,4 +17,7 @@ this is sample.
 
 ---
 
-# Second
+![bg](color_pallet.png)
+
+---
+
