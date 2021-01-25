@@ -1,0 +1,11 @@
+/* @theme mine */
+
+@import 'default';
+
+section {
+    font-family: "F910新コミック体", "YuMin_36pKn-Medium" ;
+    font-size: 32px;
+    padding: 40px;
+    background-color: #fef9ef;
+    color: #373f51;
+}
