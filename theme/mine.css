@@ -10,6 +10,14 @@ section {
     color: #373f51;
 }
 
-section h1 {
+section.title h1 {
+    font-size: 60px;
+    text-align: center;
     color: #3a8daa;
+}
+
+section.slides h1 {
+    color: #3a8daa;
+    position: absolute;
+    left: 50px; top: 50px;
 }
