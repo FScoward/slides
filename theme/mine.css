@@ -10,6 +10,13 @@ section {
     color: #373f51;
 }
 
+section.title {
+    color: 373f51;
+    font-size: 36px;
+    text-align: center;
+    padding: 40px;
+}
+
 section.title h1 {
     font-size: 60px;
     text-align: center;
